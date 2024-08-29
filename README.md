@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+**该仓库将会分享一下适合用于做毕业设计的一些项目。**
+
+- [心理测评管理系统](https://github.com/wanManage/psy_user)
+- [仓储库存管理信息系统设计与实现](https://github.com/wanManage/warehouse_web)
+
 <!--
 **wanManage/wanManage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
