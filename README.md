@@ -8,11 +8,8 @@
 ## 联系我
 
 <b>作者wx：Yaoxiu121：</b><br>
-<table>
-    <tr >
-        <td style="width:300px"><img src="doc/wx.jpg"/></td>
-    </tr>
-</table>
+
+<img src="doc/wx.jpg" width="300" />
 <!-- <p><img src="doc/wx.jpg" alt="微信二维码"></p> -->
 
 <!--
